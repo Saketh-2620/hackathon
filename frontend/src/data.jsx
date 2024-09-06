@@ -2,7 +2,7 @@ const challenges = [
   {
     name: "Data Science Bootcamp",
     startDate: "2024-03-01T09:00:00",
-    endDate: "2024-09-06T17:20:00",
+    endDate: "2024-09-16T17:20:00",
     description:
       "Join the AI Innovation Hackathon to solve real-world problems using cutting-edge AI technologies. Open to all levels of expertise.",
     image: "./public/images/data.png",
@@ -21,7 +21,7 @@ const challenges = [
   {
     name: "Weather Recognition",
     startDate: "2024-11-05T08:30:00",
-    endDate: "2024-11-07T15:30:00",
+    endDate: "2024-11-07T15:23:00",
     description:
       "Revolutionize the world of finance with creative solutions in the FinTech sector. Cash prizes for the top teams.",
 
@@ -31,7 +31,7 @@ const challenges = [
   {
     name: "Airline Passenger Satisfaction",
     startDate: "2024-10-20T09:00:00",
-    endDate: "2024-10-22T18:00:00",
+    endDate: "2024-10-22T18:32:00",
     description:
       "Develop new technologies to improve healthcare delivery and patient outcomes. Ideal for students, professionals, and startups.",
 
@@ -41,7 +41,7 @@ const challenges = [
   {
     name: "Engineering Graduates",
     startDate: "2024-12-10T11:00:00",
-    endDate: "2024-12-12T13:00:00",
+    endDate: "2024-12-12T13:12:00",
     description:
       "Put your cybersecurity skills to the test with challenging scenarios and puzzles. Great for security enthusiasts.",
 
@@ -51,7 +51,7 @@ const challenges = [
   {
     name: "Travel Insurance Claim Prediction",
     startDate: "2024-09-25T10:00:00",
-    endDate: "2024-09-27T14:00:00",
+    endDate: "2024-09-27T14:12:00",
     description:
       "Design and develop innovative solutions to create smarter and more sustainable cities.",
 
