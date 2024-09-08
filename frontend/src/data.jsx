@@ -2,7 +2,7 @@ const challenges = [
   {
     name: "Data Science Bootcamp",
     startDate: "2024-03-01T09:00:00",
-    endDate: "2024-09-16T17:20:00",
+    endDate: "2024-09-26T17:20:00",
     description:
       "Join the AI Innovation Hackathon to solve real-world problems using cutting-edge AI technologies. Open to all levels of expertise.",
     image: "./public/images/data.png",
